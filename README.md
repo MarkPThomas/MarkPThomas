@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Mark! 👋
 
 [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
