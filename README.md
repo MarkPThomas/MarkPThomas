@@ -15,11 +15,11 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="markPThomas | portfolio" width="22px" src="" />][portfolio]
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="markPThomas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
 [<img align="left" alt="markPThomas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="markPThomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="markPThomas | portfolio" width="22px" src="" />][portfolio]
 [<img align="left" alt="MarkPThomas.com" width="22px" src="http://www.markpthomas.com/favicon-16x16.png" />][website]
 
 <br />
