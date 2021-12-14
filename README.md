@@ -1,10 +1,8 @@
 ### Hi there, I'm Mark! 👋
 
-<p>
-[![portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io/)](Portfolio Projects)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io)](https://markpthomas.github.io)
 
-[![website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
-</p>
+[![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
 ## About Me
 
@@ -13,6 +11,8 @@
 - Avid mountaineer, rock climber, ice climber, skier, backpacker, sea kayaker, whitewater paddler, packrafter
 - Passionate about photography, digital art, drawing & painting
 - Loves all things map & GIS-related
+- I’m looking to collaborate with other content creators
+- 2021 Goals: Fully transition from structural engineering to the field of software development
 
 ### Connect with Me:
 
