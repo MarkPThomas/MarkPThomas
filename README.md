@@ -65,7 +65,7 @@
 </details>
 
 [website]: http://www.markpthomas.com/
-[portfolio]: https://github.com/MarkPThomas/MarkPThomas.github.io
+[portfolio]: https://markpthomas.github.io/
 [blog]: https://medium.com/@markthomas_97045
 [twitter]: https://twitter.com/PellucidWombat
 [instagram]: https://www.instagram.com/pellucidwombato/
