@@ -1,10 +1,10 @@
 ### Hi there, I'm Mark! 👋
 
-[![portfolio](https://markpthomas.github.io/)](Portfolio Projects)
+[![portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io/)](Portfolio Projects)
 
-[![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
+[![website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
-## About me
+## About Me
 
 - Full stack software developer for desktop, web, and mobile
 - Former structural engineer, designer of skycrapers, protecting against earthquakes and progressive collapse
@@ -12,7 +12,7 @@
 - Passionate about photography, digital art, drawing & painting
 - Loves all things map & GIS-related
 
-### Connect with me:
+### Connect with Me:
 
 [<img align="left" alt="markPThomas | portfolio" width="22px" src="" />][portfolio]
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
