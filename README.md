@@ -1,8 +1,10 @@
 ### Hi there, I'm Mark! 👋
 
+<p>
 [![portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io/)](Portfolio Projects)
 
 [![website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
+</p>
 
 ## About Me
 
