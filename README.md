@@ -1,10 +1,16 @@
 ### Hi there, I'm Mark! 👋
 
+[![portfolio](https://markpthomas.github.io/)](Portfolio Projects)
+
 [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
-## TBD: About me heading
+## About me
 
-- TBD basic about me bullet points
+- Full stack software developer for desktop, web, and mobile
+- Former structural engineer, designer of skycrapers, protecting against earthquakes and progressive collapse
+- Avid mountaineer, rock climber, ice climber, skier, backpacker, sea kayaker, whitewater paddler, packrafter
+- Passionate about photography, digital art, drawing & painting
+- Loves all things map & GIS-related
 
 ### Connect with me:
 
@@ -13,9 +19,7 @@
 [<img align="left" alt="markPThomas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
 [<img align="left" alt="markPThomas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="markPThomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MarkPThomas.com" width="22px" src="" />][website]
-
-
+[<img align="left" alt="MarkPThomas.com" width="22px" src="http://www.markpthomas.com/favicon-16x16.png" />][website]
 
 <br />
 
@@ -60,7 +64,7 @@
 </details>
 
 [website]: http://www.markpthomas.com/
-[portfolio]: https://codeSTACKr.com
+[portfolio]: https://github.com/MarkPThomas/MarkPThomas.github.io
 [blog]: https://medium.com/@markthomas_97045
 [twitter]: https://twitter.com/PellucidWombat
 [instagram]: https://www.instagram.com/pellucidwombato/
