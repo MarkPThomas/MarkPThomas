@@ -156,8 +156,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkPThomas)
 
 </details>
 
@@ -166,9 +165,7 @@
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=MarkPThomas&count_private=true&show_icons=true)
 <br />
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPThomas&langs_count=10)
-  
-  <img align="left" alt="MarkPThomas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarkPThomas&show_icons=true&hide_border=true&count_private=true&theme=merko" />
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPThomas&langs_count=10)
 
 </details>
 
