@@ -146,6 +146,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World!](https://medium.com/marktech/hello-world-47ceb6e5774d?source=rss----667f317d252e---4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/marktech)
