@@ -32,61 +32,63 @@
   <tr>
     <td>Web: </td>
     <td>
-      <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+      <img align="left" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" />
+      <img align="left" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" />
     </td>
   </tr>
   <tr>
     <td>Language: </td>
     <td>
-      <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-      <img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-      <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-      <img align="left" alt="C Plus Plus" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-      <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-      <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+      <img align="left" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" />
+      <img align="left" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" />
+      <img align="left" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" />
+      <img align="left" alt="C Plus Plus" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/cPlusPlus.png" />
+      <img align="left" alt="Python" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/python.png" />
+      <img align="left" alt="Ruby" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ruby.png" />
     </td>
   </tr>
   <tr>
     <td>Database: </td>
     <td>
-      <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-      <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-      <img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-      <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+      <img align="left" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" />
+      <img align="left" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" />
+      <img align="left" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" />
+      <img align="left" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" />
     </td>
   </tr>
   <tr>
     <td>ORM: </td>
     <td>
-      <img align="left" alt="Sequelize" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sequelize/sequelize.png" />
-      <img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
+      <img align="left" alt="Sequelize" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/sequelize.png" />
+      <img align="left" alt="Mongoose" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Mongoose.png" />
     </td>
   </tr>
   <tr>
     <td>Framework: </td>
     <td>
-      <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-      <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-      <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png" />
-      <img align="left" alt="dot Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotNet/dotNet.png" />
+      <img align="left" alt="React" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/react.png" />
+      <img align="left" alt="Redux" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Redux.png" />
+      <img align="left" alt="Node.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nodeJS.jpeg" />
+      <img align="left" alt="Express.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ExpressJS-transparent.png" />
+      <img align="left" alt="Dot Net Core" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dotNetCore.png" />
     </td>
   </tr>
   <tr>
     <td>IDE: </td>
     <td>
-      <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />
+      <img align="left" alt="JetBrains" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/JetBrains.png" />
+      <img align="left" alt="Visual Studio" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio.png" />
+      <img align="left" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" />
     </td>
   </tr>
   <tr>
     <td>CI: </td>
     <td>
-      <img align="left" alt="Circle CI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      <img align="left" alt="Travis CI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />
-      <img align="left" alt="Appveyor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />
-      <img align="left" alt="SonarQube" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />
-      <img align="left" alt="Coveralls" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />
+      <img align="left" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" />
+      <img align="left" alt="Travis CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/TravisCI-Label.png" />
+      <img align="left" alt="Appveyor" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Appveyor.png" />
+      <img align="left" alt="SonarCloud" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/SonarCloud-bannerCropped.png" />
+      <img align="left" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
     </td>
   </tr>
 </table>
