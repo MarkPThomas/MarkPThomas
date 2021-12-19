@@ -18,10 +18,9 @@
 - ❓ Fun fact, but did you know that the prominence stats used in [peakbagger.com](https://peakbagger.com/) to rank peaks were generate by someone writing a C++ program to analyze DEMs (digital elevation maps) from all over the world, utilizing multivariable calculus in order to find summits and saddle (yay hyperbolic paraboloids). You can find the repo [here]().
 
 ### Connect with Me:
-
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="http://www.markpthomas.com/main/public/img/icons/linkedIn/linkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="markPThomas | Stack Overflow" width="22px" src="http://www.markpthomas.com/main/public/img/icons/stackOverflow/stackOverflow_icon.png" />][stackoverflow]
-[<img align="left" alt="markPThomas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
+[<img align="left" alt="markPThomas | Medium" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/medium.png" />][blog]
 [<img align="left" alt="markPThomas | Twitter" width="22px" src="http://www.markpthomas.com/main/public/img/icons/twitter/twitter_icon.svg" />][twitter]
 [<img align="left" alt="markPThomas | Instagram" width="22px" src="http://www.markpthomas.com/main/public/img/icons/instagram/2993766 - instagram logo media social.png" />][instagram]
 
@@ -32,63 +31,109 @@
   <tr>
     <td>Web: </td>
     <td>
-      <img align="left" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" />
-      <img align="left" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" />
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" title="HTML5" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" /></a>
     </td>
   </tr>
   <tr>
     <td>Language: </td>
     <td>
-      <img align="left" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" />
-      <img align="left" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" />
-      <img align="left" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" />
-      <img align="left" alt="C Plus Plus" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/cPlusPlus.png" />
-      <img align="left" alt="Python" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/python.png" />
-      <img align="left" alt="Ruby" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ruby.png" />
+       <a href="https://javascript.info/js" target="_blank" rel="noopener noreferrer"><img align="left" title="JavaScript" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" /></a>
+       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noopener noreferrer"><img align="left" title="C#" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" /></a>
+       <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noopener noreferrer"><img align="left" title="PHP" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" /></a>
+       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer"><img align="left" title="C++" alt="C Plus Plus" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/cPlusPlus.png" /></a>
+       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Python" alt="Python" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/python.png" /></a>
+       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noopener noreferrer"><img align="left" title="Ruby" alt="Ruby" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ruby.png" /></a>
     </td>
   </tr>
   <tr>
     <td>Database: </td>
     <td>
-      <img align="left" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" />
-      <img align="left" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" />
-      <img align="left" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" />
-      <img align="left" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" />
+       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MySQL" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" /></a>
+       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MongoDB" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" /></a>
+       <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Postgres" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" /></a>
+       <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img align="left" title="Redis" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" /></a>
     </td>
   </tr>
   <tr>
     <td>ORM: </td>
     <td>
-      <img align="left" alt="Sequelize" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/sequelize.png" />
-      <img align="left" alt="Mongoose" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Mongoose.png" />
+       <a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Sequelize" alt="Sequelize" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/sequelize.png" /></a>
+       <a href="https://mongoosejs.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="Mongoose" alt="Mongoose" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Mongoose-cropped.png" /></a>
     </td>
   </tr>
   <tr>
     <td>Framework: </td>
     <td>
-      <img align="left" alt="React" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/react.png" />
-      <img align="left" alt="Redux" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Redux.png" />
-      <img align="left" alt="Node.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nodeJS.jpeg" />
-      <img align="left" alt="Express.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ExpressJS-transparent.png" />
-      <img align="left" alt="Dot Net Core" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dotNetCore.png" />
+       <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="React.js" alt="React" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/react.png" />
+       </a>
+       <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Redux" alt="Redux" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Redux.png" />
+       </a>
+       <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Node.js" alt="Node.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nodeJS.jpeg" />
+       </a>
+       <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Express.js" alt="Express.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/expressJS.png" />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noopener noreferrer">
+        <img align="left" title=".Net Core" alt="Dot Net Core" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dotNetCore.png" />
+      </a>
+      <a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="WPF | XAML" alt="WPF | XAML" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/wpfXAML.jpeg" />
+      </a>
     </td>
   </tr>
   <tr>
     <td>IDE: </td>
     <td>
-      <img align="left" alt="JetBrains" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/JetBrains.png" />
-      <img align="left" alt="Visual Studio" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio.png" />
-      <img align="left" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" />
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Jet Brains" alt="JetBrains" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/JetBrains.png" /></a>
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio" alt="Visual Studio" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio.png" /></a>
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Testing: </td>
+    <td>
+      <a href="https://mochajs.org/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Mocha.js" alt="Mocha.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/mocha.png" />
+      </a>
+      <a href="https://www.chaijs.com/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Chai.js" alt="Chai.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/chai-transparent.png" />
+      </a>
+      <a href="https://enzymejs.github.io/enzyme/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Enzyme.js" alt="Enzyme.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/enzyme.png" />
+      </a>
+      <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Jest.js" alt="Jest.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jest.png" />
+      </a>
+      <a href="https://nunit.org/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="NUnit" alt="NUnit" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nunit-transparent.png" />
+      </a>
+      <a href="https://www.ncrunch.net/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="NCrunch" alt="NCrunch" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/NCrunch.png" />
+      </a>
     </td>
   </tr>
   <tr>
     <td>CI: </td>
     <td>
-      <img align="left" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" />
-      <img align="left" alt="Travis CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/TravisCI-Label.png" />
-      <img align="left" alt="Appveyor" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Appveyor.png" />
-      <img align="left" alt="SonarCloud" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/SonarCloud-bannerCropped.png" />
-      <img align="left" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
+       <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /
+       </a>
+       <a href="https://travis-ci.org/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Travis CI" alt="Travis CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/TravisCI-Label.png" />
+       </a>
+       <a href="https://www.appveyor.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Appveyor" alt="Appveyor" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Appveyor.png" />
+       </a>
+       <a href="https://sonarcloud.io/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Sonar Cloud" alt="SonarCloud" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/SonarCloud-bannerCropped.png" />
+       </a>
+       <a href="https://coveralls.io/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Coveralls" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
+       </a>
     </td>
   </tr>
 </table>
@@ -129,3 +174,5 @@
 [instagram]: https://www.instagram.com/pellucidwombato/
 [linkedin]: https://www.linkedin.com/in/mark-porter-thomas/
 [stackoverflow]: https://stackoverflow.com/users/3341503/pellucidwombat
+
+[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
