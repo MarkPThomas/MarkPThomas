@@ -162,8 +162,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MarkPThomas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=markPThomas&show_icons=true&hide_border=true&count_private=true&theme=merko" />
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=MarkPThomas&count_private=true&show_icons=true)
+<br />
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPThomas&langs_count=10)
+  
+  <img align="left" alt="MarkPThomas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarkPThomas&show_icons=true&hide_border=true&count_private=true&theme=merko" />
 
 </details>
 
@@ -174,5 +178,3 @@
 [instagram]: https://www.instagram.com/pellucidwombato/
 [linkedin]: https://www.linkedin.com/in/mark-porter-thomas/
 [stackoverflow]: https://stackoverflow.com/users/3341503/pellucidwombat
-
-[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
