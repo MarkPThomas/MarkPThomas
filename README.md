@@ -1,8 +1,8 @@
 ### Hi there, I'm Mark! 👋
 
-[<img align="left" alt="markPThomas | portfolio website" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/Briefcase-icon.png" />][portfolio] [![Portfolio Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io)](https://markpthomas.github.io) 
+[<img align="left" alt="markPThomas | portfolio website" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/Briefcase-icon.png" />][portfolio] [![Portfolio Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io)](https://markpthomas.github.io)
 
-[<img align="left" alt="MarkPThomas.com" width="22px" src="http://www.markpthomas.com/favicon-16x16.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com) 
+[<img align="left" alt="MarkPThomas.com" width="22px" src="http://www.markpthomas.com/favicon-16x16.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
 
 ## About Me
@@ -15,7 +15,6 @@
 - 🌎 Loves all things map- & GIS-related
 - 🤝 I’m looking to collaborate with other content creators!
 - ✨ 2021 Goals: Fully transition from structural engineering to the field of software development
-- ❓ Fun fact, but did you know that the prominence stats used in [peakbagger.com](https://peakbagger.com/) to rank peaks were generate by someone writing a C++ program to analyze DEMs (digital elevation maps) from all over the world, utilizing multivariable calculus in order to find summits and saddle (yay hyperbolic paraboloids). You can find the repo [here]().
 
 ### Connect with Me:
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="http://www.markpthomas.com/main/public/img/icons/linkedIn/linkedIn_icon.svg" />][linkedin]
@@ -162,7 +161,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
+
   ![github stats](https://github-readme-stats.vercel.app/api?username=MarkPThomas&count_private=true&show_icons=true)
 <br />
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPThomas&langs_count=10)
