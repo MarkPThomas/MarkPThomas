@@ -113,6 +113,7 @@
       <a href="https://www.ncrunch.net/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="NCrunch" alt="NCrunch" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/NCrunch.png" />
       </a>
+      | K6 | Loader.io | Lighthouse
     </td>
   </tr>
   <tr>
@@ -132,6 +133,27 @@
        </a>
        <a href="https://coveralls.io/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Coveralls" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
+       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Planning & Management: </td>
+    <td>
+       <a href="#" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+         JIRA |
+       </a>
+      <a href="#" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+         Confluence |
+       </a>
+      <a href="#" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+         Trello |
+       </a>
+      <a href="#" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+         Microsoft Teams
        </a>
     </td>
   </tr>
