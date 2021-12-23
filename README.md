@@ -113,7 +113,22 @@
       <a href="https://www.ncrunch.net/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="NCrunch" alt="NCrunch" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/NCrunch.png" />
       </a>
-      | K6 | Loader.io | Lighthouse
+      <a href="https://k6.io/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="K6" alt="K6" height="26px" src="" /> -->
+         | K6 | 
+      </a>     
+      <a href="https://loader.io/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="" /> -->
+         Loader.io |
+      </a>
+      <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="" /> -->
+         Lighthouse |
+      </a>
+      <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="PageSpeed Insights" alt="PageSpeed Insights" height="26px" src="" /> -->
+         PageSpeed Insights |
+      </a>
     </td>
   </tr>
   <tr>
@@ -139,22 +154,18 @@
   <tr>
     <td>Planning & Management: </td>
     <td>
-       <a href="#" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="JIRA" alt="JIRA" height="26px" src="" /> -->
          JIRA |
        </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+      <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Confluence" alt="Confluence" height="26px" src="" /> -->
          Confluence |
        </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
+      <a href="https://www.atlassian.com/software/trello" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Trello" alt="Trello" height="26px" src="" /> -->
          Trello |
-       </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /> -->
-         Microsoft Teams
-       </a>
+      </a>
     </td>
   </tr>
 </table>
