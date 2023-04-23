@@ -213,11 +213,11 @@
          <!-- | K6 -->
       </a>
       <a href="https://loader.io/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.jpeg" />
+         <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.png" />
          <!-- | Loader.io -->
       </a>
       <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/lighthouse.png" />
+         <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/lighthouse.jpeg" />
          <!-- | Lighthouse -->
       </a>
       <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">
