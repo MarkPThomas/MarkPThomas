@@ -177,7 +177,7 @@
          <!-- | Visual Studio -->
         </a>
        <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" />
-         <!-- | Visual Code -->'
+         <!-- | Visual Code -->
         </a>
     </td>
   </tr>
