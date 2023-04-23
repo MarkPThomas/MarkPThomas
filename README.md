@@ -102,7 +102,7 @@
          <!-- | Docker -->
        </a>
       <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="AWS" alt="AWS" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/aws.png" />
+         <img align="left" title="AWS" alt="AWS" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/AWS.png" />
          <!-- | AWS -->
        </a>
       <!-- <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer">
