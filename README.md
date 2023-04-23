@@ -14,7 +14,7 @@
 - 📸 Passionate about photography (esp. night & time-lapse), digital art & animation (2D & 3D), drawing & painting 🎨
 - 🌎 Loves all things map- & GIS-related
 - 🤝 I’m looking to collaborate with other content creators!
-- ✨ 2021 Goals: Fully transition from structural engineering to the field of software development
+- ✨ 2023 Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
 
 ### Connect with Me:
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="http://www.markpthomas.com/main/public/img/icons/linkedIn/linkedIn_icon.svg" />][linkedin]
@@ -37,6 +37,10 @@
   <tr>
     <td>Language: </td>
     <td>
+       <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/.png" /> -->
+         TypeScript
+       </a>
        <a href="https://javascript.info/js" target="_blank" rel="noopener noreferrer"><img align="left" title="JavaScript" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" /></a>
        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noopener noreferrer"><img align="left" title="C#" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" /></a>
        <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noopener noreferrer"><img align="left" title="PHP" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" /></a>
@@ -48,10 +52,56 @@
   <tr>
     <td>Database: </td>
     <td>
+       <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Postgres" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" /></a>
        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MySQL" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" /></a>
        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MongoDB" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" /></a>
-       <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Postgres" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" /></a>
        <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img align="left" title="Redis" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" /></a>
+       <!-- <a href="https://neo4j.com/" target="_blank" rel="noopener noreferrer">
+          <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/neo4j.png" />
+         Neo4J
+       </a> -->
+         <!-- <a href="https://www.amazonaws.cn/en/dynamodb/" target="_blank" rel="noopener noreferrer">
+          <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dynamoDB.png" />
+         DynamoDB
+       </a> -->
+    </td>
+  </tr>
+  <tr>
+    <td>Cloud/Microservicegraphql
+    : </td>
+    <td>
+       <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="GraphQL" alt="GraphQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/graphQL.png" /> -->
+         GraphQL
+       </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Docker" alt="Docker" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/docker.png" /> -->
+         | Docker
+       </a>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="AWS" alt="AWS" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/aws.png" /> -->
+         | AWS
+       </a>
+      <!-- <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="RabbitMQ" alt="RabbitMQ" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/rabbitMQ.png" />
+         | RabbitMQ
+       </a> -->
+      <!-- <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Kafka" alt="Kafka" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/kafka.png" />
+         | Kafka
+       </a> -->
+      <!-- <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Kubernetes" alt="Kubernetes" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/kubernetes.png" />
+         | Kubernetes
+       </a> -->
+      <!-- <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Terraform" alt="Terraform" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/terraform.png" />
+         | Terraform
+       </a> -->
+      <!-- <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="Grafana" alt="Grafana" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/grafana.png" />
+         | Grafana
+       </a> -->
     </td>
   </tr>
   <tr>
@@ -114,25 +164,29 @@
         <img align="left" title="NCrunch" alt="NCrunch" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/NCrunch.png" />
       </a>
       <a href="https://k6.io/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="K6" alt="K6" height="26px" src="" /> -->
-         | K6 | 
-      </a>     
+         <!-- <img align="left" title="K6" alt="K6" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/k6.png" /> -->
+         | K6
+      </a>
       <a href="https://loader.io/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="" /> -->
-         Loader.io |
+         <!-- <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.png" /> -->
+         | Loader.io
       </a>
       <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="" /> -->
-         Lighthouse |
+         <!-- <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/lighthouse.png" /> -->
+         | Lighthouse
       </a>
       <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="PageSpeed Insights" alt="PageSpeed Insights" height="26px" src="" /> -->
-         PageSpeed Insights |
+         <!-- <img align="left" title="PageSpeed Insights" alt="PageSpeed Insights" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/pageSpeedInsights.png" />-->
+         | PageSpeed Insights
       </a>
+       <a href="https://wave.webaim.org/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="WAVE" alt="WAVE" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/wave.png" /> -->
+         | WAVE
+       </a>
     </td>
   </tr>
   <tr>
-    <td>CI: </td>
+    <td>CI/CD: </td>
     <td>
        <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /
@@ -149,22 +203,34 @@
        <a href="https://coveralls.io/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Coveralls" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
        </a>
+       <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" /> -->
+         | GitLab
+       </a>
     </td>
   </tr>
   <tr>
     <td>Planning & Management: </td>
     <td>
        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="JIRA" alt="JIRA" height="26px" src="" /> -->
-         JIRA |
+         <!-- <img align="left" title="Jira" alt="Jira" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jira.png" /> -->
+         Jira
        </a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Confluence" alt="Confluence" height="26px" src="" /> -->
-         Confluence |
+         <!-- <img align="left" title="Confluence" alt="Confluence" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/confluence.png" /> -->
+         | Confluence
        </a>
       <a href="https://www.atlassian.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Trello" alt="Trello" height="26px" src="" /> -->
-         Trello |
+         <!-- <img align="left" title="Trello" alt="Trello" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/trello.png" /> -->
+         | Trello
+      </a>
+      <a href="https://www.figma.com/software/trello" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.png" /> -->
+         | Figma
+      </a>
+      <a href="https://balsamiq.com/software/trello" target="_blank" rel="noopener noreferrer">
+         <!-- <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.png" /> -->
+         | Basalmiq
       </a>
     </td>
   </tr>
