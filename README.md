@@ -2,7 +2,7 @@
 
 [<img align="left" alt="markPThomas | portfolio website" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/Briefcase-icon.png" />][portfolio] [![Portfolio Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io)](https://markpthomas.github.io)
 
-[<img align="left" alt="MarkPThomas.com" width="22px" src="http://www.markpthomas.com/favicon-16x16.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
+[<img align="left" alt="MarkPThomas.com" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/markPThomas.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
 
 
 ## About Me
@@ -17,11 +17,11 @@
 - ✨ 2023 Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
 
 ### Connect with Me:
-[<img align="left" alt="markPThomas | LinkedIn" width="22px" src="http://www.markpthomas.com/main/public/img/icons/linkedIn/linkedIn_icon.svg" />][linkedin]
-[<img align="left" alt="markPThomas | Stack Overflow" width="22px" src="http://www.markpthomas.com/main/public/img/icons/stackOverflow/stackOverflow_icon.png" />][stackoverflow]
+[<img align="left" alt="markPThomas | LinkedIn" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/linkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="markPThomas | Stack Overflow" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/stackOverflow_icon.png" />][stackoverflow]
 [<img align="left" alt="markPThomas | Medium" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/medium.png" />][blog]
-[<img align="left" alt="markPThomas | Twitter" width="22px" src="http://www.markpthomas.com/main/public/img/icons/twitter/twitter_icon.svg" />][twitter]
-[<img align="left" alt="markPThomas | Instagram" width="22px" src="http://www.markpthomas.com/main/public/img/icons/instagram/2993766 - instagram logo media social.png" />][instagram]
+[<img align="left" alt="markPThomas | Twitter" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/twitter_icon.svg" />][twitter]
+[<img align="left" alt="markPThomas | Instagram" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/instagram.png" />][instagram]
 
 <br />
 
@@ -233,9 +233,13 @@
   <tr>
     <td>CI/CD: </td>
     <td>
+       <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" />
+         <!-- GitLab -->
+       </a>
        <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" />
-         <!-- Circle CI -->
+         <!-- | Circle CI -->
        </a>
        <a href="https://travis-ci.org/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Travis CI" alt="Travis CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/TravisCI-Label.png" />
@@ -252,10 +256,6 @@
        <a href="https://coveralls.io/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Coveralls" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
          <!-- | Coveralls -->
-       </a>
-       <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" />
-         <!-- | GitLab -->
        </a>
     </td>
   </tr>
