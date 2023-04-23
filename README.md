@@ -42,11 +42,11 @@
     <td>Language: </td>
     <td>
        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/.png" />
-         TypeScript
+         <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/typeScript.png" />
+         <!-- TypeScript -->
        </a>
        <a href="https://javascript.info/js" target="_blank" rel="noopener noreferrer"><img align="left" title="JavaScript" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" />
-         <!-- | GitLab -->
+         <!-- | JavaScript -->
         </a>
        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noopener noreferrer"><img align="left" title="C#" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" />
          <!-- | C# -->
@@ -91,8 +91,7 @@
     </td>
   </tr>
   <tr>
-    <td>Cloud/Microservicegraphql
-    : </td>
+    <td>Cloud/Microservice: </td>
     <td>
        <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="GraphQL" alt="GraphQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/graphQL.png" />
@@ -214,7 +213,7 @@
          <!-- | K6 -->
       </a>
       <a href="https://loader.io/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.png" />
+         <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.jpeg" />
          <!-- | Loader.io -->
       </a>
       <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener noreferrer">
@@ -264,11 +263,11 @@
     <td>Planning & Management: </td>
     <td>
        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Jira" alt="Jira" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jira.png" />
+         <img align="left" title="Jira" alt="Jira" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jira.jpeg" />
          <!-- Jira -->
        </a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Confluence" alt="Confluence" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/confluence.png" />
+         <img align="left" title="Confluence" alt="Confluence" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/confluence.jpeg" />
          <!-- | Confluence -->
        </a>
       <a href="https://www.atlassian.com/software/trello" target="_blank" rel="noopener noreferrer">
@@ -276,11 +275,11 @@
          <!-- | Trello -->
       </a>
       <a href="https://www.figma.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.png" />
+         <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.svg" />
          <!-- | Figma -->
       </a>
       <a href="https://balsamiq.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.png" />
+         <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.jpeg" />
          <!-- | Basalmiq -->
       </a>
     </td>
