@@ -30,39 +30,63 @@
   <tr>
     <td>Web: </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" title="HTML5" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" title="HTML5" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" />
+         <!-- | HTML5 -->
+        </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" />
+         <!-- | CSS3 -->
+        </a>
     </td>
   </tr>
   <tr>
     <td>Language: </td>
     <td>
        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/.png" /> -->
+         <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/.png" />
          TypeScript
        </a>
-       <a href="https://javascript.info/js" target="_blank" rel="noopener noreferrer"><img align="left" title="JavaScript" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" /></a>
-       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noopener noreferrer"><img align="left" title="C#" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" /></a>
-       <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noopener noreferrer"><img align="left" title="PHP" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" /></a>
-       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer"><img align="left" title="C++" alt="C Plus Plus" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/cPlusPlus.png" /></a>
-       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Python" alt="Python" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/python.png" /></a>
-       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noopener noreferrer"><img align="left" title="Ruby" alt="Ruby" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ruby.png" /></a>
+       <a href="https://javascript.info/js" target="_blank" rel="noopener noreferrer"><img align="left" title="JavaScript" alt="JavaScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/javascript.png" />
+         <!-- | GitLab -->
+        </a>
+       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noopener noreferrer"><img align="left" title="C#" alt="C Sharp" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/csharp.png" />
+         <!-- | C# -->
+        </a>
+       <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noopener noreferrer"><img align="left" title="PHP" alt="PHP" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/php.png" />
+         <!-- | PHP -->
+        </a>
+       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer"><img align="left" title="C++" alt="C Plus Plus" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/cPlusPlus.png" />
+         <!-- | C++ -->
+        </a>
+       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Python" alt="Python" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/python.png" />
+         <!-- | Python -->
+        </a>
+       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noopener noreferrer"><img align="left" title="Ruby" alt="Ruby" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/ruby.png" />
+         <!-- | Ruby -->
+        </a>
     </td>
   </tr>
   <tr>
     <td>Database: </td>
     <td>
-       <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Postgres" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" /></a>
-       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MySQL" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" /></a>
-       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MongoDB" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" /></a>
-       <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img align="left" title="Redis" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" /></a>
+       <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Postgres" alt="Postgres" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/postgresql.png" />
+         <!-- PostgreSQL -->
+        </a>
+       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MySQL" alt="MySQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MySQL.png" />
+         <!-- | MySQL -->
+        </a>
+       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="MongoDB" alt="MongoDB" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/MongoDB.png" />
+         <!-- | MongoDB -->
+        </a>
+       <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img align="left" title="Redis" alt="Redis" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/redis.png" />
+         <!-- | Redis -->
+        </a>
        <!-- <a href="https://neo4j.com/" target="_blank" rel="noopener noreferrer">
           <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/neo4j.png" />
-         Neo4J
+         | Neo4J
        </a> -->
          <!-- <a href="https://www.amazonaws.cn/en/dynamodb/" target="_blank" rel="noopener noreferrer">
           <img align="left" title="TypeScript" alt="TypeScript" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dynamoDB.png" />
-         DynamoDB
+         | DynamoDB
        </a> -->
     </td>
   </tr>
@@ -71,16 +95,16 @@
     : </td>
     <td>
        <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="GraphQL" alt="GraphQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/graphQL.png" /> -->
-         GraphQL
+         <img align="left" title="GraphQL" alt="GraphQL" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/graphQL.png" />
+         <!-- GraphQL -->
        </a>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Docker" alt="Docker" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/docker.png" /> -->
-         | Docker
+         <img align="left" title="Docker" alt="Docker" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/docker.png" />
+         <!-- | Docker -->
        </a>
       <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="AWS" alt="AWS" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/aws.png" /> -->
-         | AWS
+         <img align="left" title="AWS" alt="AWS" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/aws.png" />
+         <!-- | AWS -->
        </a>
       <!-- <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="RabbitMQ" alt="RabbitMQ" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/rabbitMQ.png" />
@@ -107,8 +131,12 @@
   <tr>
     <td>ORM: </td>
     <td>
-       <a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Sequelize" alt="Sequelize" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/sequelize.png" /></a>
-       <a href="https://mongoosejs.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="Mongoose" alt="Mongoose" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Mongoose-cropped.png" /></a>
+       <a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer"><img align="left" title="Sequelize" alt="Sequelize" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/sequelize.png" />
+         <!-- Sequelize -->
+         </a>
+       <a href="https://mongoosejs.com/" target="_blank" rel="noopener noreferrer"><img align="left" title="Mongoose" alt="Mongoose" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Mongoose-cropped.png" />
+         <!-- | Mongoose -->
+         </a>
     </td>
   </tr>
   <tr>
@@ -116,30 +144,42 @@
     <td>
        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="React.js" alt="React" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/react.png" />
+         <!-- React -->
        </a>
-       <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
+       <!-- <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Redux" alt="Redux" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Redux.png" />
-       </a>
+          | Redux
+       </a> -->
        <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Node.js" alt="Node.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nodeJS.jpeg" />
+         <!-- | Node -->
        </a>
        <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Express.js" alt="Express.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/expressJS.png" />
+         <!-- | Express -->
       </a>
       <a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noopener noreferrer">
         <img align="left" title=".Net Core" alt="Dot Net Core" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/dotNetCore.png" />
+         <!-- | .Net Core -->
       </a>
       <a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022" target="_blank" rel="noopener noreferrer">
         <img align="left" title="WPF | XAML" alt="WPF | XAML" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/wpfXAML.jpeg" />
+         <!-- | WPF | XAML -->
       </a>
     </td>
   </tr>
   <tr>
     <td>IDE: </td>
     <td>
-       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Jet Brains" alt="JetBrains" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/JetBrains.png" /></a>
-       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio" alt="Visual Studio" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio.png" /></a>
-       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" /></a>
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Jet Brains" alt="JetBrains" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/JetBrains.png" />
+         <!-- JetBrains -->
+        </a>
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio" alt="Visual Studio" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio.png" />
+         <!-- | Visual Studio -->
+        </a>
+       <a href="" target="_blank" rel="noopener noreferrer"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/visual-studio-code.png" />
+         <!-- | Visual Code -->'
+        </a>
     </td>
   </tr>
   <tr>
@@ -147,41 +187,47 @@
     <td>
       <a href="https://mochajs.org/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="Mocha.js" alt="Mocha.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/mocha.png" />
+         <!-- Mocha -->
       </a>
       <a href="https://www.chaijs.com/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="Chai.js" alt="Chai.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/chai-transparent.png" />
+         <!-- | Chai -->
       </a>
       <a href="https://enzymejs.github.io/enzyme/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="Enzyme.js" alt="Enzyme.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/enzyme.png" />
+         <!-- | Enzyme -->
       </a>
       <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="Jest.js" alt="Jest.js" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jest.png" />
+         <!-- | Jest -->
       </a>
       <a href="https://nunit.org/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="NUnit" alt="NUnit" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/nunit-transparent.png" />
+         <!-- | NUnit -->
       </a>
       <a href="https://www.ncrunch.net/" target="_blank" rel="noopener noreferrer">
         <img align="left" title="NCrunch" alt="NCrunch" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/NCrunch.png" />
+         <!-- | NCrunch -->
       </a>
       <a href="https://k6.io/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="K6" alt="K6" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/k6.png" /> -->
-         | K6
+         <img align="left" title="K6" alt="K6" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/k6.png" />
+         <!-- | K6 -->
       </a>
       <a href="https://loader.io/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.png" /> -->
-         | Loader.io
+         <img align="left" title="Loader.io" alt="Loader.io" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/loaderIO.png" />
+         <!-- | Loader.io -->
       </a>
       <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/lighthouse.png" /> -->
-         | Lighthouse
+         <img align="left" title="Lighthouse" alt="Lighthouse" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/lighthouse.png" />
+         <!-- | Lighthouse -->
       </a>
       <a href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="PageSpeed Insights" alt="PageSpeed Insights" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/pageSpeedInsights.png" />-->
-         | PageSpeed Insights
+         <img align="left" title="PageSpeed Insights" alt="PageSpeed Insights" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/pageSpeedInsights.png" />
+         <!-- | PageSpeed Insights -->
       </a>
        <a href="https://wave.webaim.org/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="WAVE" alt="WAVE" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/wave.png" /> -->
-         | WAVE
+         <img align="left" title="WAVE" alt="WAVE" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/wave.png" />
+         <!-- | WAVE -->
        </a>
     </td>
   </tr>
@@ -189,23 +235,28 @@
     <td>CI/CD: </td>
     <td>
        <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" /
+         <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" />
+         <!-- Circle CI -->
        </a>
        <a href="https://travis-ci.org/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Travis CI" alt="Travis CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/TravisCI-Label.png" />
+         <!-- | Travis CI -->
        </a>
        <a href="https://www.appveyor.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Appveyor" alt="Appveyor" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Appveyor.png" />
+         <!-- | Appveyor -->
        </a>
        <a href="https://sonarcloud.io/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Sonar Cloud" alt="SonarCloud" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/SonarCloud-bannerCropped.png" />
+         <!-- | SonarCloud -->
        </a>
        <a href="https://coveralls.io/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Coveralls" alt="Coveralls" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/Coveralls.png" />
+         <!-- | Coveralls -->
        </a>
        <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" /> -->
-         | GitLab
+         <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" />
+         <!-- | GitLab -->
        </a>
     </td>
   </tr>
@@ -213,24 +264,24 @@
     <td>Planning & Management: </td>
     <td>
        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Jira" alt="Jira" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jira.png" /> -->
-         Jira
+         <img align="left" title="Jira" alt="Jira" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/jira.png" />
+         <!-- Jira -->
        </a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Confluence" alt="Confluence" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/confluence.png" /> -->
-         | Confluence
+         <img align="left" title="Confluence" alt="Confluence" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/confluence.png" />
+         <!-- | Confluence -->
        </a>
       <a href="https://www.atlassian.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Trello" alt="Trello" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/trello.png" /> -->
-         | Trello
+         <img align="left" title="Trello" alt="Trello" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/trello.png" />
+         <!-- | Trello -->
       </a>
       <a href="https://www.figma.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.png" /> -->
-         | Figma
+         <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.png" />
+         <!-- | Figma -->
       </a>
       <a href="https://balsamiq.com/software/trello" target="_blank" rel="noopener noreferrer">
-         <!-- <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.png" /> -->
-         | Basalmiq
+         <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.png" />
+         <!-- | Basalmiq -->
       </a>
     </td>
   </tr>
