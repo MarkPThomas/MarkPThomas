@@ -2,8 +2,11 @@
 
 [<img align="left" alt="markPThomas | portfolio website" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/Briefcase-icon.png" />][portfolio] [![Portfolio Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://markpthomas.github.io)](https://markpthomas.github.io)
 
-[<img align="left" alt="MarkPThomas.com" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/markPThomas.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com)
-
+<!-- [<img align="left" alt="MarkPThomas.com" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/markPThomas.png" />][website] [![Website](https://img.shields.io/website?label=MarkPThomas.com&style=for-the-badge&url=http://www.markpthomas.com)](http://www.markpthomas.com) -->
+<a href="http://www.markpthomas.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/markPThomas.png" />
+  <!-- Personal Website -->
+</a>
 
 ## About Me
 
@@ -30,10 +33,12 @@
   <tr>
     <td>Web: </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img align="left" title="HTML5" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" />
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="HTML5" alt="HTML5" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/html.png" />
          <!-- | HTML5 -->
         </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+        <img align="left" title="CSS3" alt="CSS3" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/css.png" />
          <!-- | CSS3 -->
         </a>
     </td>
