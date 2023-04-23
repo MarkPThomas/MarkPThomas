@@ -242,6 +242,14 @@
          <img align="left" title="GitLab" alt="GitLab" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitLab.png" />
          <!-- GitLab -->
        </a>
+       <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="GitHub" alt="GitHub" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitHub_icon.svg" />
+         <!-- GitHub -->
+       </a>
+       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+         <img align="left" title="Git" alt="Git" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/git.png" />
+         <!-- Git -->
+       </a>
        <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Circle CI" alt="Circle CI" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/CircleCI.png" />
          <!-- | Circle CI -->
@@ -279,11 +287,11 @@
          <img align="left" title="Trello" alt="Trello" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/trello.png" />
          <!-- | Trello -->
       </a>
-      <a href="https://www.figma.com/software/trello" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Figma" alt="Figma" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/figma.svg" />
          <!-- | Figma -->
       </a>
-      <a href="https://balsamiq.com/software/trello" target="_blank" rel="noopener noreferrer">
+      <a href="https://balsamiq.com/" target="_blank" rel="noopener noreferrer">
          <img align="left" title="Basalmiq" alt="Basalmiq" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/basalmiq.jpeg" />
          <!-- | Basalmiq -->
       </a>
