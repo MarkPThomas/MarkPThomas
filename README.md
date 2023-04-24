@@ -243,7 +243,7 @@
          <!-- GitLab -->
        </a>
        <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-         <img align="left" title="GitHub" alt="GitHub" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitHub_icon.svg" />
+         <img align="left" title="GitHub" alt="GitHub" height="26px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/gitHub.png" />
          <!-- GitHub -->
        </a>
        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
