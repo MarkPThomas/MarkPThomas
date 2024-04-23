@@ -308,6 +308,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World!](https://medium.com/marktech/hello-world-47ceb6e5774d?source=rss----667f317d252e---4)
+- [Polyline Data Structure Idea](https://medium.com/marktech/polyline-data-structure-idea-313c26e3c311?source=collection_home---6------3-----------------------)
+- [An Unusual Methodology to Compose Night Photographs with Stars](https://medium.com/marktech/an-unusual-methodology-to-compose-night-photographs-with-stars-902f56a977d5?source=collection_home---6------2-----------------------)
+- [Half Dome Like You've Never Seen it Before - A Unique Usage of Tiling](https://medium.com/marktech/half-dome-like-youre-never-seen-it-before-a-unique-usage-of-tiling-78ca6313e696?source=collection_home---6------1-----------------------)
+- [A React Async Image Component](https://medium.com/marktech/a-react-async-image-component-60aceee7ec9?source=collection_home---6------0-----------------------)
+<!-- 
+- [A Custom History Library for Undo/Redo]()
+- [Compiling Stats from a Polyline]()
+- [All About Styles with React]()
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/marktech)
