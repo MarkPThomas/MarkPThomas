@@ -17,7 +17,7 @@
 - 📸 Passionate about photography (esp. night & time-lapse), digital art & animation (2D & 3D), drawing & painting 🎨
 - 🌎 Loves all things map- & GIS-related
 - 🤝 I’m looking to collaborate with other content creators!
-- ✨ 2023 Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
+- ✨ 2024 Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
 
 ### Connect with Me:
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/linkedIn_icon.svg" />][linkedin]
@@ -310,7 +310,7 @@
 - [Hello World!](https://medium.com/marktech/hello-world-47ceb6e5774d?source=rss----667f317d252e---4)
 - [Polyline Data Structure Idea](https://medium.com/marktech/polyline-data-structure-idea-313c26e3c311?source=collection_home---6------3-----------------------)
 - [An Unusual Methodology to Compose Night Photographs with Stars](https://medium.com/marktech/an-unusual-methodology-to-compose-night-photographs-with-stars-902f56a977d5?source=collection_home---6------2-----------------------)
-- [Half Dome Like You've Never Seen it Before - A Unique Usage of Tiling](https://medium.com/marktech/half-dome-like-youre-never-seen-it-before-a-unique-usage-of-tiling-78ca6313e696?source=collection_home---6------1-----------------------)
+- [Half Dome Like You've Never Seen it Before - A Unique Usage of Tiling (GIS & JavaScript)](https://medium.com/marktech/half-dome-like-youre-never-seen-it-before-a-unique-usage-of-tiling-78ca6313e696?source=collection_home---6------1-----------------------)
 - [A React Async Image Component](https://medium.com/marktech/a-react-async-image-component-60aceee7ec9?source=collection_home---6------0-----------------------)
 <!-- 
 - [A Custom History Library for Undo/Redo]()
