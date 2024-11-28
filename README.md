@@ -17,7 +17,7 @@
 - 📸 Passionate about photography (esp. night & time-lapse), digital art & animation (2D & 3D), drawing & painting 🎨
 - 🌎 Loves all things map- & GIS-related
 - 🤝 I’m looking to collaborate with other content creators!
-- ✨ 2024 Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
+- ✨ Current Goals: Develop my new software development career into the realms of microservice architectures and cloud hosting
 
 ### Connect with Me:
 [<img align="left" alt="markPThomas | LinkedIn" width="22px" src="https://github.com/MarkPThomas/MarkPThomas/blob/master/icons/linkedIn_icon.svg" />][linkedin]
@@ -307,11 +307,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World!](https://medium.com/marktech/hello-world-47ceb6e5774d?source=rss----667f317d252e---4)
-- [Polyline Data Structure Idea](https://medium.com/marktech/polyline-data-structure-idea-313c26e3c311?source=collection_home---6------3-----------------------)
-- [An Unusual Methodology to Compose Night Photographs with Stars](https://medium.com/marktech/an-unusual-methodology-to-compose-night-photographs-with-stars-902f56a977d5?source=collection_home---6------2-----------------------)
-- [Half Dome Like You've Never Seen it Before - A Unique Usage of Tiling (GIS & JavaScript)](https://medium.com/marktech/half-dome-like-youre-never-seen-it-before-a-unique-usage-of-tiling-78ca6313e696?source=collection_home---6------1-----------------------)
+- [Hello World!](https://medium.com/marktech/hello-world-47ceb6e5774d)
+- [Polyline Data Structure Idea](https://medium.com/marktech/polyline-data-structure-idea-313c26e3c311)
+- [An Unusual Methodology to Compose Night Photographs with Stars](https://medium.com/marktech/an-unusual-methodology-to-compose-night-photographs-with-stars-902f56a977d5)
+- [Half Dome Like You've Never Seen it Before - A Unique Usage of Tiling (GIS & JavaScript)](https://medium.com/marktech/half-dome-like-youre-never-seen-it-before-a-unique-usage-of-tiling-78ca6313e696)
 - [A React Async Image Component](https://medium.com/marktech/a-react-async-image-component-60aceee7ec9?source=collection_home---6------0-----------------------)
+- [Binary Search is an Intuitive & Useful Algorithm for Everyday Life](https://medium.com/marktech/binary-search-is-an-intuitive-useful-algorithm-for-everyday-life-a25bbf6acd1d)
+- [Sort Algorithms for Dummies - A Summary](https://medium.com/marktech/sort-algorithms-for-dummies-a-summary-a58672dfe850)
+    - [Comparison Sort Algorithms for Dummies](https://medium.com/marktech/comparison-sort-algorithms-for-dummies-e621cbff2c3f)
+    - [Non-Comparison Sort Algorithms for Dummies](https://medium.com/marktech/non-comparison-sort-algorithms-for-dummies-af1be5351a4d)
 <!-- 
 - [A Custom History Library for Undo/Redo]()
 - [Compiling Stats from a Polyline]()
